@@ -74,15 +74,8 @@ int main() {
 
 ## OUTPUT:
 
- Enter the plain text:arun
+ ![Screenshot 2024-03-16 200207](https://github.com/ArunJ03/Cryptography---19CS412-classical-techqniques/assets/131673036/2d694abd-b5ab-44e9-a6e3-473ed4dcbeba)
 
- Enter the key value:5
- 
- PLAIN TEXt: arun
- 
- ENCRYPTED TEXT: fwzs
- 
- AFTER DECRYPTION : arun
 
 ## RESULT:
 The program is executed successfully
@@ -234,18 +227,8 @@ int main() {
 }
 
 ## OUTPUT:
-Enter key: crypto
+![Screenshot 2024-03-16 200532](https://github.com/ArunJ03/Cryptography---19CS412-classical-techqniques/assets/131673036/1aa357a4-4091-4568-9b8f-a166a86f5383)
 
-Enter the plain text: arun
-C R Y P T 
-O A B D E 
-F G H I K 
-L M N Q S 
-U V W X Z 
-
-
-Entered text: ARUN
-Cipher Text: GA WL 
 
 ## RESULT:
 The program is executed successfully
@@ -323,10 +306,8 @@ int main()
 ## OUTPUT:
 
 
-Enter plain text  : arun
-32 49 52 45 
-Encrypted Cipher Text : Q E R
-Decrypted Cipher Text : G X A
+
+![Screenshot 2024-03-16 201002](https://github.com/ArunJ03/Cryptography---19CS412-classical-techqniques/assets/131673036/f7622e85-6763-45ce-bf63-63bb402a007c)
 
 ## RESULT:
 The program is executed successfully
@@ -429,31 +410,7 @@ int main() {
 
 ## OUTPUT:
 
-1. Encrypt
-2. Decrypt
-3. Exit
-
-Enter your option: 1
-
-Enter the plaintext (up to 128 characters): cryptography
-Enter the key (up to 16 characters): arun
-Cipher Text: CISCTFAEAGBL
-
-1. Encrypt
-2. Decrypt
-3. Exit
-
-Enter your option: 2
-
-Enter the ciphertext: CISCTFAEAGBL
-Enter the key: arun
-Deciphered Text: CRYPTOGRAPHY
-
-1. Encrypt
-2. Decrypt
-3. Exit
-
-Enter your option: 3
+![Screenshot 2024-03-16 201413](https://github.com/ArunJ03/Cryptography---19CS412-classical-techqniques/assets/131673036/fafc9d0e-3a6b-460e-8bf7-4a67b9af26e4)
 
 
 ## RESULT:
@@ -536,11 +493,8 @@ int main() {
 
 ## OUTPUT:
 
-Enter the input string : my name is arun
+![Screenshot 2024-03-16 201505](https://github.com/ArunJ03/Cryptography---19CS412-classical-techqniques/assets/131673036/fe46723d-3936-4c98-a87a-e2075c99e811)
 
-Cipher text after applying rail fence :
-m aei rnynm sau
-Text after decryption : my name is arun
 
 ## RESULT:
 The program is executed successfully
